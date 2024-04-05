@@ -1,0 +1,20 @@
+[20-Nov-2023 20:24:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Network is unreachable in /home/vtqazgll/public_html/contact/insert.php:12
+Stack trace:
+#0 /home/vtqazgll/public_html/contact/insert.php(12): mysqli->__construct('sql111.thsite.t...', 'thsi_35054826', '?OhEoTkl', 'thsi_35054826_u...')
+#1 {main}
+  thrown in /home/vtqazgll/public_html/contact/insert.php on line 12
+[21-Nov-2023 10:57:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Network is unreachable in /home/vtqazgll/public_html/contact/insert.php:12
+Stack trace:
+#0 /home/vtqazgll/public_html/contact/insert.php(12): mysqli->__construct('sql111.thsite.t...', 'thsi_35054826', '?OhEoTkl', 'thsi_35054826_u...')
+#1 {main}
+  thrown in /home/vtqazgll/public_html/contact/insert.php on line 12
+[28-Nov-2023 13:01:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Network is unreachable in /home/vtqazgll/public_html/contact/insert.php:12
+Stack trace:
+#0 /home/vtqazgll/public_html/contact/insert.php(12): mysqli->__construct('sql111.thsite.t...', 'thsi_35054826', '?OhEoTkl', 'thsi_35054826_u...')
+#1 {main}
+  thrown in /home/vtqazgll/public_html/contact/insert.php on line 12
+[02-Jan-2024 15:27:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Network is unreachable in /home/vtqazgll/public_html/contact/insert.php:12
+Stack trace:
+#0 /home/vtqazgll/public_html/contact/insert.php(12): mysqli->__construct('sql111.thsite.t...', 'thsi_35054826', '?OhEoTkl', 'thsi_35054826_u...')
+#1 {main}
+  thrown in /home/vtqazgll/public_html/contact/insert.php on line 12
